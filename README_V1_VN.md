@@ -54,8 +54,7 @@ cd ..
 - **Directory scanning:** `ffuf`  
 - **Technology detection:** `webanalyze`  
 - **DNS scanning:** `dig`  
-- **WHOIS lookup:** `whois`  
-- **Port scanning:** `nmap`  
+- **WHOIS lookup:** `whois` 
 
 ##### 2️⃣ Cài đặt tool  
 ```bash
